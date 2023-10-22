@@ -6,15 +6,24 @@ const Skills = () => {
           <li className="content-list__item">
             <h2 className="title-2">Frontend</h2>
             <p>
-              JavaScript, TypeScript, ReactJS, Angular, Redux, HTML, CSS, NPM,
-              BootStrap, MaterialUI, Yarn, TailwindCSS, StyledComponents
+              JavaScript TypeScript Redux HTML CSS MaterialUI Yarn React React
+              Native Angular Vue.js Bootstrap Tailwind Materialize
+              StyledComponents PyQt5-6 Kivy
             </p>
           </li>
           <li className="content-list__item">
             <h2 className="title-2">Backend</h2>
             <p>
-              Node.js, MySQL, MongoDB, Python, Go, SQL, PostgreSQL, Django,
-              Flask
+              Python Node.js Go SQL Django Flask PostgreSQL MySQL MongoDB BS4
+              Aiogram PyTelegramBot Requests aiohttp openCV Mediapipe FAST API
+              ArangoDB
+            </p>
+          </li>
+          <li className="content-list__item">
+            <h2 className="title-2">Аdditional skills</h2>
+            <p>
+              Regex Markdown XML unittest Selenium Numba Loguru Pydantic Git
+              Windows Linux MacOS Apache NGINX Wordpress Tilda
             </p>
           </li>
         </ul>
