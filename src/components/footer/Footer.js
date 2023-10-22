@@ -4,7 +4,6 @@ import "./style.css";
 // imgs
 import github from "./img/gitHub.svg";
 import vk from "./img/vk.svg";
-import tg from "./img/telegram.svg";
 
 const Footer = () => {
   return (
@@ -20,11 +19,6 @@ const Footer = () => {
             <li className="social__item">
               <a href="https://github.com/kianurivzzz">
                 <img src={github} alt="Link" />
-              </a>
-            </li>
-            <li className="social__item">
-              <a href="http://t.me/Nikita_Karasyov">
-                <img src={tg} alt="Link" />
               </a>
             </li>
           </ul>
